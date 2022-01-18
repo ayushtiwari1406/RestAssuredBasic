@@ -1,0 +1,7 @@
+Rest Assured works on three basic principles --
+
+Given -- All Input details - headers/query and path parameter/body/ log().all() for input
+When -- Submit the API with HTTP Method/resource name
+Then -- Validate the response -- assertion / log().all() for output
+
+JSONPath is a class which takes string as input and convert that into json format as output and to parse JSON.
